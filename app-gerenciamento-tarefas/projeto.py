@@ -3,6 +3,7 @@ from tkinter import messagebox
 from tkinter import ttk
 from datetime import datetime
 
+
 class AppListaTarefa:
     def __init__(self, raiz):
         self.raiz = raiz
